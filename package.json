@@ -1,0 +1,17 @@
+{
+  "name": "nombre_del_proyecto",
+  "version": "1.0.0",
+  "description": "descripcion de mi proyecto",
+  "main": "punto de entrada",
+  "scripts": {
+    "test": "comando para ejecutar testing"
+  },
+  "keywords": [
+    "tags"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
